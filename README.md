@@ -3,7 +3,9 @@
         this website contains all of my coding work this far and in the future. currently has 5 work aspects and contact information as well as a page design to show off my CSS/HTML abilities.
 
         2. LINKS
+        https://billthebaker.github.io/Portfolio -LIVE URL
 
+        https://github.com/Billthebaker/Portfolio - Github REPO
         
 
 
@@ -29,4 +31,3 @@
 
         through making this portfolio i learned the fine aspects of tuning CSS and HTML to make a page better to look view and easy to access the information.
 
-        

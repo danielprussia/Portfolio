@@ -163,7 +163,7 @@ main {
   font-size: 0.9rem;
 }
 
-/* feature first portfolio item */
+
 .flex-item:first-child {
     min-height: 400px;
     flex-basis: 100%;
@@ -209,8 +209,7 @@ main {
   background-size: 100% 88%;
   color: var(--secondary);
 }
-
-/* portfolio project images */
+/* Portfolio Images */
 .run-buddy {
   background-image: url("../images/forest.jpg");
 }
@@ -231,7 +230,6 @@ main {
   background-image: url("../images/back1.jpg");
 }
 
-/* end portfolio project images */
 
 @media screen and (max-width: 980px) {
   header {
