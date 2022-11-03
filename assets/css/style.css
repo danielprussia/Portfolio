@@ -69,3 +69,8 @@ nav a:hover {
   background-size: 100% 100%;
   color: var(--primary);
 }
+
+main {
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
