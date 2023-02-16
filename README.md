@@ -31,3 +31,4 @@
 
         through making this portfolio i learned the fine aspects of tuning CSS and HTML to make a page better to look view and easy to access the information.
 
+        CAPTAINS LOG: 2/16/23. AWWWWW YEEEEEE WE OUT HERE
